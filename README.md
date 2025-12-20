@@ -79,7 +79,7 @@ Currently focused on writing clean, maintainable code and learning how productio
 ## 📫 Connect With Me
 
 - GitHub: You’re already here  
-- LinkedIn: *([add your link](https://www.linkedin.com/in/gayith-bandara-722a9b25b/))*  
+- LinkedIn: *([LinkedIn](https://www.linkedin.com/in/gayith-bandara-722a9b25b/))*  
 - Email: *(gayith.mxz@gmail.com)*  
 
 ---
