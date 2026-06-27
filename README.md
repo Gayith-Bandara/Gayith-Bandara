@@ -1,5 +1,5 @@
 # Hi, I'm Gayith 👋  
-Software Engineering Undergraduate | Trainee Software Developer  
+Software Engineering Undergraduate | Associate Software Developer 
 
 I’m a Software Engineering undergraduate with hands-on experience building real-world web applications.  
 I enjoy turning requirements into working systems, especially across the full stack — from UI to database.
